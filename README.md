@@ -36,6 +36,7 @@ Amongst all of the store's categories, the **Furniture** category contributed th
 The store has made most of its profit from sales in the **West**, this region is the store's most active purchasing customer. The store should aim its advertisement towards the western region of the country for it to see increased profitability.
 ## Average Profit per Segment
 ![](Average_segment_profit.png)
+
 The average profit provided by the **Home office** segment was the peak at **$33.82** per sale, this signifies a higher purchasing power from the home office segment.
 
 ## CONCLUSION
