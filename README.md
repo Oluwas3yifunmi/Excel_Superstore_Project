@@ -1,4 +1,4 @@
-# Excel_Superstore_Project
+# Analysis Of US Superstore Profitability 
 ## INTRODUCTION
 This project looks at the analysis of a US superstore whose objective is to look at the line of their profits to see how they have performed over the years. In this analysis, thorough research was done regarding the store's profitability across various aspects of the store such as its segments, categories, region, and years. The store aims to see how it has performed profit-wise across each of these aspects.
 ## Skills Demonstrated
